@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Requests
+END
+RoleUpdateRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Requests/RoleUpdateRequest.php
+END
+RoleCreateRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Requests/RoleCreateRequest.php
+END
+PermissionUpdateRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Requests/PermissionUpdateRequest.php
+END
+PermissionCreateRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Requests/PermissionCreateRequest.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Requests/Request.php
+END

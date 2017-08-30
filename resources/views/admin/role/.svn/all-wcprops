@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/role
+END
+create.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/role/create.blade.php
+END
+edit.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/role/edit.blade.php
+END
+index.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/role/index.blade.php
+END
+_form.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/role/_form.blade.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/cxl456/!svn/ver/6/1/shoph/1/mly/database/migrations
+END
+2014_10_12_100000_create_password_resets_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/cxl456/!svn/ver/6/1/shoph/1/mly/database/migrations/2014_10_12_100000_create_password_resets_table.php
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cxl456/!svn/ver/6/1/shoph/1/mly/database/migrations/.gitkeep
+END
+2014_10_12_000000_create_users_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/cxl456/!svn/ver/6/1/shoph/1/mly/database/migrations/2014_10_12_000000_create_users_table.php
+END
+2016_05_25_054817_entrust_setup_tables.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/cxl456/!svn/ver/6/1/shoph/1/mly/database/migrations/2016_05_25_054817_entrust_setup_tables.php
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models
+END
+MlyQiXi.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyQiXi.php
+END
+MlyUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyUser.php
+END
+MlyDetailInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyDetailInfo.php
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/Role.php
+END
+MlyProduct.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyProduct.php
+END
+MlySuggest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlySuggest.php
+END
+MlyTicket.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyTicket.php
+END
+MlyZMDQiXi.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyZMDQiXi.php
+END
+MlyPlastic.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyPlastic.php
+END
+MlySign.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlySign.php
+END
+MlyPro.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyPro.php
+END
+MlyShare.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyShare.php
+END
+MlyCashCoupon.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyCashCoupon.php
+END
+MlyWeixin.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyWeixin.php
+END
+MlyCoupon.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/MlyCoupon.php
+END
+AdminUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/AdminUser.php
+END
+Permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Models/Permission.php
+END

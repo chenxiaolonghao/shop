@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Admin
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Admin/IndexController.php
+END
+PermissionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Admin/PermissionController.php
+END
+ResetpwdController.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Admin/ResetpwdController.php
+END
+UserController.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Admin/UserController.php
+END
+RoleController.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Admin/RoleController.php
+END

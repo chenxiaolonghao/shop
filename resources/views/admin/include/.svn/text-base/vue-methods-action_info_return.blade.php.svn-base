@@ -1,0 +1,38 @@
+/*返回信息处理*/
+return_info_action:function(response)
+{
+    var statusinfo=response.data;
+    if(statusinfo.status==1)
+    {
+        if(statusinfo.is_reload==1)
+        {
+        	layer.msg(statusinfo.info);
+        }
+        else
+        {
+        if(statusinfo.curl)
+        {
+            <!--layermsg_s(statusinfo.info,statusinfo.curl);-->
+            layer.msg(statusinfo.info);
+        }
+        else
+        {
+            layer.msg(statusinfo.info);
+            this.get_list_action();
+        }
+        }
+    }
+    else
+    {
+        if(statusinfo.curl)
+        {
+        	<!--layermsg_e(statusinfo.info,statusinfo.curl);-->
+        	layer.msg(statusinfo.info);
+        }
+        else
+        {
+
+        	layer.msg(statusinfo.info);
+        }
+    }
+},

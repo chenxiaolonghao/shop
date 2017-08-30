@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/cxl456/!svn/ver/6/1/shoph/1/mly/database/seeds
+END
+DatabaseSeeder.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cxl456/!svn/ver/6/1/shoph/1/mly/database/seeds/DatabaseSeeder.php
+END
+RbacSeeder.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cxl456/!svn/ver/6/1/shoph/1/mly/database/seeds/RbacSeeder.php
+END
+rbac.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cxl456/!svn/ver/6/1/shoph/1/mly/database/seeds/rbac.sql
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cxl456/!svn/ver/6/1/shoph/1/mly/database/seeds/.gitkeep
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/auth
+END
+register.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/auth/register.blade.php
+END
+logino.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/auth/logino.blade.php
+END
+login.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/auth/login.blade.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/auth/passwords
+END
+email.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/auth/passwords/email.blade.php
+END
+reset.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/auth/passwords/reset.blade.php
+END

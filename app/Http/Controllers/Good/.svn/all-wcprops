@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Good
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Good/IndexController.php
+END
+ProController.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Good/ProController.php
+END
+CashcouponController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Good/CashcouponController.php
+END
+CouponController.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Good/CouponController.php
+END
+TicketController.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cxl456/!svn/ver/6/1/shoph/1/mly/app/Http/Controllers/Good/TicketController.php
+END

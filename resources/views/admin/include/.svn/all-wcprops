@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include
+END
+vue-apiurl-action-one.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-apiurl-action-one.blade.php
+END
+vue-pages-pageparams-wechat.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-pageparams-wechat.blade.php
+END
+vue-methods-action_info_return.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-action_info_return.blade.php
+END
+vue-pages-pageparams-attributegroup.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-pageparams-attributegroup.blade.php
+END
+vue-methods-action_list_do.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-action_list_do.blade.php
+END
+vue-pages-pageparams-product.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-pageparams-product.blade.php
+END
+vue-methods-action_list_search.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-action_list_search.blade.php
+END
+vue-methods-link_click_page.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-link_click_page.blade.php
+END
+vue-pages-paramsdata-userpermission.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-paramsdata-userpermission.blade.php
+END
+vue-pages-pageparams-expresstemplate.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-pageparams-expresstemplate.blade.php
+END
+button-add.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/button-add.blade.php
+END
+vue-ready.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-ready.blade.php
+END
+vue-pages-dataitems.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-dataitems.blade.php
+END
+vue-methods-action_list_get.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-action_list_get.blade.php
+END
+vue-apiurl-action-cache.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-apiurl-action-cache.blade.php
+END
+vue-pages-pageparams-userrole.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-pageparams-userrole.blade.php
+END
+vue-pages-computed.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-computed.blade.php
+END
+vue-pages-pageparams.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-pageparams.blade.php
+END
+vue-methods-action_one_get.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-action_one_get.blade.php
+END
+vue-methods-link_click_subval.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-link_click_subval.blade.php
+END
+button-cache-menu.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/button-cache-menu.blade.php
+END
+vue-http-catch-error.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-http-catch-error.blade.php
+END
+vue-pages-paramsdata-user.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-paramsdata-user.blade.php
+END
+button-cache-picture.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/button-cache-picture.blade.php
+END
+vue-pages-pageparams-user.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-pageparams-user.blade.php
+END
+vue-apiurl-action-clear.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-apiurl-action-clear.blade.php
+END
+vue-pages-pageparams-type.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-pageparams-type.blade.php
+END
+vue-el.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-el.blade.php
+END
+pages.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/pages.blade.php
+END
+vue-http-then-error.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-http-then-error.blade.php
+END
+vue-apiurl-action-delete.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-apiurl-action-delete.blade.php
+END
+vue-methods-link_click_edit.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-link_click_edit.blade.php
+END
+search.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/search.blade.php
+END
+button-cache-link.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/button-cache-link.blade.php
+END
+vue-pages-paramsdata.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-paramsdata.blade.php
+END
+vue-methods-link_click_add.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-link_click_add.blade.php
+END
+button-cache.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/button-cache.blade.php
+END
+vue-http-before.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-http-before.blade.php
+END
+vue-pages-pageparams-question.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-pages-pageparams-question.blade.php
+END
+vue-methods-link_click_back.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-link_click_back.blade.php
+END
+vue-methods-action_cache_create.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-action_cache_create.blade.php
+END
+vue-methods-link_click_delete.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-link_click_delete.blade.php
+END
+vue-methods-action_menu_create.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/cxl456/!svn/ver/6/1/shoph/1/mly/resources/views/admin/include/vue-methods-action_menu_create.blade.php
+END
